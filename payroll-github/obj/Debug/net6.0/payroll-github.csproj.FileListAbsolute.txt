@@ -1,0 +1,15 @@
+C:\Users\Josem\Music\git2\payroll-github\bin\Debug\net6.0\payroll-github.exe
+C:\Users\Josem\Music\git2\payroll-github\bin\Debug\net6.0\payroll-github.deps.json
+C:\Users\Josem\Music\git2\payroll-github\bin\Debug\net6.0\payroll-github.runtimeconfig.json
+C:\Users\Josem\Music\git2\payroll-github\bin\Debug\net6.0\payroll-github.dll
+C:\Users\Josem\Music\git2\payroll-github\bin\Debug\net6.0\payroll-github.pdb
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.csproj.AssemblyReference.cache
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.AssemblyInfoInputs.cache
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.AssemblyInfo.cs
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.csproj.CoreCompileInputs.cache
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.dll
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\refint\payroll-github.dll
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.pdb
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\payroll-github.genruntimeconfig.cache
+C:\Users\Josem\Music\git2\payroll-github\obj\Debug\net6.0\ref\payroll-github.dll
